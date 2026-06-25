@@ -1,2 +1,2 @@
 # thesis
-My thesis and related materials
+Thesis and related materials on bed allocation in hospital
